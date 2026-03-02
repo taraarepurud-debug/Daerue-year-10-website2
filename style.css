@@ -1,5 +1,14 @@
 body {
 
     background-color: rgba(155, 206, 253, 0.747);
-    
+    border-style: groove;
+    border-radius: 10%;
+    border: 1px solid;
+}
+
+h1  {
+border-style: groove;
+    border-radius: 10%;
+    border: 10px solid;
+
 }
